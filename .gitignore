@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# License files
+LICENSE
+LICENSE.txt
+license
+license.txt
+
+# Python path files
+*.pth
